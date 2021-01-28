@@ -13,9 +13,9 @@ links:
   - label: Flickr
     url: "https://www.flickr.com/photos/110829077@N08/"
   - label: Email
-    url: "lars@lse.de"
+    url: "mailto:lars@lse.de"
 output:
-  postcards::jolla
+  postcards::trestles
 site: distill::distill_website
 ---
 
