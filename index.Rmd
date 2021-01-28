@@ -1,18 +1,27 @@
 ---
-title: "lse"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Lars Schöbitz"
+image: "lars_schoebitz.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/larsschoebitz/"
+  - label: Twitter
+    url: "https://twitter.com/larnsce"
+  - label: GitHub
+    url: "https://github.com/larnsce"
+  - label: ORCID iD
+    url: "https://orcid.org/0000-0003-2196-5015"
+  - label: Flickr
+    url: "https://www.flickr.com/photos/110829077@N08/"
+  - label: Email
+    url: "lars@lse.de"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+I am an environmental engineer at heart and trade. My passion for it brought me 
+to research within the global water, sanitation and health (WASH) sector. 
+In 2016 I was introduced to R, which renewed my fascination for using 
+programming to solve problems. I am driven by the unique opportunity to bring 
+his two worlds together by teaching Data Science R using the values and 
+principles at the core of its community.
