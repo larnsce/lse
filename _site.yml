@@ -1,0 +1,15 @@
+name: "."
+title: "lse"
+description: |
+  lse
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Lars"
+      href: lars.html
+output: distill::distill_article
+theme: postcards.css
