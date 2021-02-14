@@ -1,10 +1,18 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+I realise that I should add some text here. And I will, one by one, as I develop an understanding what this website is about.
+
+## What I know now (2020-02-14)
+
+This website is about:
+
+- actually using this URL that I have had for nearly 25 years
+- providing a central place for my online profiles
+- sharing how I develop R training courses
+- blogging about my experience working in the water, sanitation and hygiene (WASH) sector
+
+
+
 
