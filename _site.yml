@@ -11,5 +11,4 @@ navbar:
       href: about.html
     - text: "Blog"      
       href: blog.html   
-output: distill::distill_article
 theme: postcards.css
