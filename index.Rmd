@@ -1,6 +1,6 @@
 ---
 title: "Lars Schöbitz"
-image: "lars_schoebitz.jpg"
+image: "lars_schoebitz.JPG"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/larsschoebitz/"
