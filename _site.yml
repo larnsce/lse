@@ -4,13 +4,22 @@ description: |
   lse
 output_dir: "docs"
 theme: postcards.css
+base_url: https://www.lse.de/
 output: distill::distill_article
+twitter:
+  site: "@larnsce"
+  creator: "@larnsce"
 navbar:
   search: false
   right:
+    - icon: fa fa-rss
+      href: blog.xml
     - text: "About"
       href: about.html
     - text: "Blog"
       href: blog.html
     - text: "CV"
       href: https://www.lse.de/cv/
+collections:
+  posts:
+    share: [twitter, linkedin]
