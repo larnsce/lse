@@ -5,9 +5,9 @@ title: "About"
 
 I realise that I should add some text here. And I will, one by one, as I develop an understanding what this website is about.
 
-## What I know now (2020-02-14)
+# `r emo::ji("light_bulb")` What I know now
 
-This website is about:
+This website is about
 
 - actually using this URL that I have had for nearly 25 years
 - providing a central place for my online profiles
@@ -16,6 +16,18 @@ This website is about:
 - my experience being a dad
 - sharing my passions
 
+# `r emo::ji("sunflower")` Thank you notes 
 
+This site was build with R packages 
+[{distill}](https://rstudio.github.io/distill/) and 
+[{postcards}](https://github.com/seankross/postcards). I have followed [this
+great tutorial](https://alison.rbind.io/post/2020-12-22-postcards-distill/) 
+tutorial by @apreshill. 
 
+# 📊 Web analytics
+
+I am currently on a 30 day trial with [plausible.io](https://plausible.io/),
+which claims to be a [privace focused Google Analytics alternative](https://plausible.io/privacy-focused-web-analytics). 
+It's [open source](https://github.com/plausible/analytics) and provides some
+basic analytics. I share my stats [publicly](https://plausible.io/lse.de.). 
 
