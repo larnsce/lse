@@ -1,25 +1,30 @@
 name: "."
 title: "Lars Schöbitz"
 description: |
-  lse
+  Lars' personal website
 output_dir: "docs"
 theme: postcards.css
 base_url: https://www.lse.de/
+repository_url: https://github.com/larnsce/lse
 output: distill::distill_article
 twitter:
   site: "@larnsce"
   creator: "@larnsce"
 navbar:
   search: false
+  source_url: true
   right:
-    - icon: fa fa-rss
-      href: blog.xml
     - text: "About"
       href: about.html
     - text: "Blog"
       href: blog.html
     - text: "CV"
       href: https://www.lse.de/cv/
+    - icon: fa fa-rss
+      href: blog.xml
 collections:
   posts:
     share: [twitter, linkedin]
+    citations: false
+rss:
+  full_content: true

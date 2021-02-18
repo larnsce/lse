@@ -3,15 +3,18 @@ title: "Welcome to my blog"
 description: |
   This finally needed to start
 author:
-  - name: Lars Schoebitz
+  - name: Lars Schöbitz
 date: 2021-02-14
 output:
   distill::distill_article:
     self_contained: false
-preview: img/welcome.jpg    
+preview: img/welcome.jpg
 ---
+<script async defer data-domain="lse.de" src="https://plausible.io/js/plausible.js"></script>
 
-```{r child = "../setup.Rmd"}
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 ```
 
