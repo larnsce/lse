@@ -1,6 +1,7 @@
 ---
 title: "About"
 ---
+<script async defer data-domain="lse.de" src="https://plausible.io/js/plausible.js"></script>
 
 I realise that I should add some text here. And I will, one by one, as I develop an understanding what this website is about.
 
@@ -12,6 +13,8 @@ This website is about:
 - providing a central place for my online profiles
 - sharing how I develop R training courses
 - blogging about my experience working in the water, sanitation and hygiene (WASH) sector
+- my experience being a dad
+- sharing my passions
 
 
 

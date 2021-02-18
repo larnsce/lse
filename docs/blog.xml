@@ -15,6 +15,7 @@
       <description>This finally needed to start</description>
       <guid>https://www.lse.de/posts/2021-02-14-welcome</guid>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://www.lse.de/posts/2021-02-14-welcome/img/welcome.jpg" medium="image" type="image/jpeg"/>
     </item>
   </channel>
 </rss>

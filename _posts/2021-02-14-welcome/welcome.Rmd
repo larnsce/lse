@@ -8,15 +8,22 @@ date: 2021-02-14
 output:
   distill::distill_article:
     self_contained: false
+preview: img/welcome.jpg    
 ---
 
+```{r child = "../setup.Rmd"}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r, layout="l-body", preview=TRUE, echo=FALSE, include=TRUE, fig.cap="Photo by [Danielle MacInnes](https://unsplash.com/photos/IuLgi9PWETU)"}
+
+knitr::include_graphics("img/welcome.jpg")
+
+```
+
 
 ## Well, hello `r emo::ji("wave")`
 
-So, this is my blog. Last week, I stumbled over a Word file on an old hard drive. It's from April 2013 and contains an opening post for my personal blog. I spare you pasting the text here, but it had me realize that this wish of writing online has been with me for quite a while. About 20 years ago, I actually learned some HTML and programmed a small website with photos of school events (and parties that we had way too early). Still, I will also spare you the details of that. Instead, let me say: Hello, I am excited to see you here. 
+So, this is my blog. Last week, I stumbled over an MS Word file on an old hard drive. It's from April 2013 and contains an opening post for my personal blog. I spare you pasting the text here, but it had me realize that this wish of writing online has been with me for quite a while. About 20 years ago, I actually learned some HTML and programmed a small website with photos of school events (and parties that we had way too early). Still, I will also spare you the details of that. Instead, let me say: Hello, I am excited to see you here. 
 
 
