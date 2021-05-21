@@ -1,0 +1,59 @@
+- # Title
+    - Remote teaching (R with R Markdown and Git / GitHub) civil servants in Switzerland
+- # Outline
+    - ## Background
+        - ### Data Science Internship at STAT in 2020
+            - Supported my RStudio Instructor Certification
+                - Started in 2019
+                - Never found time for exam
+            - More than an internship
+                - Content for another blog
+        - ### Self-employed again in 2021
+            - Dream: Want to become a Professional Educator for Data Science
+    - ## Teaching
+        - ### rstatsZH - Data Science mit R
+            - STAT has interest to teach civil servants data science
+            - I am hired to develop courses for STAT
+            - Focus on
+                - Modern Data Science with R Tidyverse Packages
+                - Exploratory Data Analysis
+                - Collaborationg with Git / GitHub
+        - ### Remote teaching
+            - COVID19 Pandeminc
+            - Disadvantages
+            - Advantages
+            - Concept
+                - Controlled Environment
+                    - RStudio Cloud
+                - Learning Management System
+                    - Git / GitHub
+                - Central place
+                    - Course website
+        - ### Feedback loops
+            - Short (anonymous) evaluation for every lecture
+                - Show data here
+                    - Make sure to get permission by participants to use data
+    - ## Lessons learned
+        - ### More time for development of lesson material
+            - Estimated 3 hours per 1 hour of teaching
+            - Needed: XXX
+                - Analyse time tracking data
+        - ### Screen setup 
+            - Do not assume people have two screens
+        - ### Novice conceptions
+            - Everything is a new concept
+                - A word
+                - A comma
+                - A button
+                - etc.
+        - ### Provide PDF of slide material
+        - ### Lesson material
+            - Reduce number of functions that are introduced per lesson
+            - Increase examples of "Why am I learning this?"
+    - ## What's next
+        - ### Goal
+            - Offer one course per quarter
+        - ### Material
+            - Develop coherent course book that collects exercises in a central place
+            - Dive deeper into working with Git / GitHub
+- 
