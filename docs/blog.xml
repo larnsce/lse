@@ -7,27 +7,14 @@
     <description>Lars' personal website
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Welcome to my blog</title>
       <dc:creator>Lars Schöbitz</dc:creator>
       <link>https://www.lse.de/posts/2021-02-14-welcome</link>
-      <description>
-
-
-&lt;script async defer data-domain="lse.de" src="https://plausible.io/js/plausible.js"&gt;&lt;/script&gt;
-&lt;div class="figure"&gt;
-&lt;img src="https://www.lse.de//posts/2021-02-14-welcome/img/welcome.jpg" alt="Photo by [Danielle MacInnes](https://unsplash.com/photos/IuLgi9PWETU)" data-distill-preview=1 /&gt;
-&lt;p class="caption"&gt;
-(#fig:unnamed-chunk-1)Photo by &lt;a href="https://unsplash.com/photos/IuLgi9PWETU"&gt;Danielle MacInnes&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;h2 id="well-hello"&gt;Well, hello 👋&lt;/h2&gt;
-&lt;p&gt;So, this is my blog. Last week, I stumbled over an MS Word file on an old hard drive. It’s from April 2013 and contains an opening post for my personal blog. I spare you pasting the text here, but it had me realize that this wish of writing online has been with me for quite a while. About 20 years ago, I actually learned some HTML and programmed a small website with photos of school events (and parties that we had way too early). Still, I will also spare you the details of that. Instead, let me say: Hello, I am excited to see you here.&lt;/p&gt;
-&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
-      <distill:md5>6b2639c5f45ab5a0c69775addd7df8fa</distill:md5>
+      <description>This finally needed to start</description>
       <guid>https://www.lse.de/posts/2021-02-14-welcome</guid>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
       <media:content url="https://www.lse.de/posts/2021-02-14-welcome/img/welcome.jpg" medium="image" type="image/jpeg"/>
     </item>
   </channel>
