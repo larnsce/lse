@@ -21,9 +21,9 @@ site: distill::distill_website
 
 <script async defer data-domain="lse.de" src="https://plausible.io/js/plausible.js"></script>
 
-I am an environmental engineer at heart and trade. My passion for it brought me 
+I am an environmental engineer at heart and by trade. My passion for it brought me 
 to research within the global water, sanitation and health (WASH) sector. 
-In 2016 I was introduced to R, which renewed my fascination for using 
+In 2016, I was introduced to R, which renewed my fascination for using 
 programming to solve problems, and I have since become a certified [RStudio 
 Instructor](https://education.rstudio.com/trainers/). 
-This personal website and blog tries to tie all my worlds together.
+This personal website tries to tie all my worlds together.
