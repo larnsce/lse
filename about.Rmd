@@ -26,8 +26,8 @@ tutorial by @apreshill.
 
 # 📊 Web analytics
 
-I am currently on a 30 day trial with [plausible.io](https://plausible.io/),
+I am using [plausible.io](https://plausible.io/),
 which claims to be a [privace focused Google Analytics alternative](https://plausible.io/privacy-focused-web-analytics). 
 It's [open source](https://github.com/plausible/analytics) and provides some
-basic analytics. I share my stats [publicly](https://plausible.io/lse.de.). 
+basic analytics. I share my stats [publicly](https://plausible.io/lse.de). 
 
