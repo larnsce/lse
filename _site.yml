@@ -22,6 +22,8 @@ navbar:
       href: https://www.lse.de/cv/
     - icon: fa fa-rss
       href: blog.xml
+    - icon: fab fa-github
+      href: https://github.com/larnsce/lse
 collections:
   posts:
     share: [twitter, linkedin]
